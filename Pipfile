@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 Scrapy = "2.11.2"
+duckdb = "1.4.3"
+pandas = "2.3.3"
 
 [dev-packages]
 pre-commit = "3.7.0"

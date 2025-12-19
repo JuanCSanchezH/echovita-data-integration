@@ -1,0 +1,6 @@
+﻿person_id ,name,state ,city ,valid_from ,valid_to 
+1,John Doe ,TX ,Houson ,1/1/20,7/25/22
+1,John Doe ,TX ,Dallas,7/25/22,8/19/23
+1,John Doe ,TX ,null,8/19/23,null 
+2,Richard smith,CA ,San Francisco ,1/23/22,4/12/22
+3,Max Mustermann ,CA ,,7/22/00,null 
