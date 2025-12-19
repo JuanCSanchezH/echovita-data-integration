@@ -6,5 +6,5 @@ NEWSPIDER_MODULE = "obituaries.spiders"
 ROBOTSTXT_OBEY = True
 
 ITEM_PIPELINES = {
-    "obituaries.pipelines.ObituariesPipeline": 300,
+    "obituaries.pipelines.echovita_scraper.ObituariesPipeline": 300,
 }
